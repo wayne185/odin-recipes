@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project involving making recipe pages. I hope to learn to effectively write out the code and make commits. Had some trouble with merging with the github repo which took a lot of time to figure out how to get past. Could not push or pull because the commits and/or branches didn't line up properly. Something like that anyway. Lesson learned-always do a pull from the remote repo before making changes and commits to git on my end. 
