@@ -1,0 +1,43 @@
+h1 {
+    color: goldenrod;
+    text-align: center;
+    background-color: darkblue;
+    border-radius: 2em;
+}
+
+body {
+    background-color: goldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p a {
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.header {
+    font-size: 44px;
+}
+
+.main, .desert, .side {
+    border-color: darkblue;
+    border-width: 6px;
+    border-radius: 1em;
+}
+
+.main {
+    background-color: rgb(166, 203, 243);
+}
+
+.desert {
+   background-color: rgb(245, 198, 206);
+}
+
+.side {
+    background-color: rgb(184, 241, 184);
+}
+
+.temp {
+    color: red;
+    font-weight: 600;
+}
