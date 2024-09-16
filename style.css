@@ -1,28 +1,62 @@
+* {
+   margin: 0;
+   padding: 0; 
+}
+
 h1 {
-    color: goldenrod;
+    color: rgb(212, 120, 0);
     text-align: center;
     background-color: darkblue;
     border-radius: 2em;
+    padding: 8px;
 }
 
 body {
     background-color: goldenrod;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 32px;
 }
 
-p a {
-    font-size: 22px;
+h3 {
+    margin: 32px 0px 16px;
+}
+
+img {
+    width: 300px;
+}
+
+li {
+    padding: 8px;
+    margin: 0px 16px;
+}
+.img {
+    width: 300px;
+    margin: 16px auto;
+    box-sizing: border-box;
+}
+
+a {
+    font-size: 18px;
     text-decoration: none;
 }
 
 .header {
     font-size: 44px;
+    margin: 16px;
+    border: 6px rgb(212, 120, 0) solid;
 }
 
+.recipelink {
+    margin: 0;
+    text-align: center;
+}
 .main, .desert, .side {
     border-color: darkblue;
     border-width: 6px;
-    border-radius: 1em;
+    border-radius: 2em;
+    padding: 8px;
+    margin: 4px 0px;
+    
 }
 
 .main {
